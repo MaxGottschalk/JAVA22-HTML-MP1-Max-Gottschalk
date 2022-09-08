@@ -1,0 +1,70 @@
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 40%;
+    color: gold;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: gold;
+    margin-left: 40%;
+    padding-right: 50%;
+}
+
+.header {
+    margin-top: 100px;
+}
+
+.sub-header {
+    margin-top: 100px;
+    font-size: x-large;
+}
+
+a:hover {
+    border: 2px solid green;
+    color: crimson;
+    background-color: beige;
+}
+
+a {
+    text-decoration: none;
+    background-color: green;
+    color: gold;
+    border: 2px solid beige;
+    padding: 0px 20px;
+}
+
+.bar {
+    display: block;
+    margin-right: auto;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.intro-txt {
+    padding: 20px;
+    margin: auto;
+    color: gold;
+}
+
+q {
+    font-family: cursive;
+    color: wheat;
+}
+
+img {
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    border: 2px solid black;
+}
+
+.input-color {
+    color: gold;
+}
+
+body {
+    background-color: grey;
+}
